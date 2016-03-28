@@ -2,6 +2,8 @@
 
 ### The request
 
+Here is the text to enter in the form:
+
     SELECT *
     WHERE {
         ?e    <http://dbpedia.org/ontology/releaseDate>     ?date   .
@@ -9,6 +11,10 @@
         ?e    <http://dbpedia.org/ontology/seasonNumber>    1
     }
     ORDER BY DESC(?date)
+
+You can acces the form here: http://dbpedia.org/snorql
+
+You should [see this page](http://dbpedia.org/snorql/?query=SELECT+*%0D%0AWHERE+{%0D%0A++++%3Fe%09%3Chttp%3A%2F%2Fdbpedia.org%2Fontology%2FreleaseDate%3E%09%3Fdate%09.%0D%0A++++%3Fe%09%3Chttp%3A%2F%2Fdbpedia.org%2Fontology%2FepisodeNumber%3E%091%09.%0D%0A++++%3Fe%09%3Chttp%3A%2F%2Fdbpedia.org%2Fontology%2FseasonNumber%3E%091%0D%0A}%0D%0AORDER+BY+DESC%28%3Fdate%29%0D%0A).
 
 ### The response
 
