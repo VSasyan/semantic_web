@@ -1,60 +1,3051 @@
 {
   "head": {
-	"link": [],
-	"vars": [
-	  "e",
-	  "date"
-	]
+    "link": [],
+    "vars": [
+      "e",
+      "date"
+    ]
   },
   "results": {
-	"distinct": false,
-	"ordered": true,
-	"bindings": [
-	  {
-		"e": {
-		  "type": "uri",
-		  "value": "http://dbpedia.org/resource/Now_is_Not_the_End"
-		},
-		"date": {
-		  "type": "typed-literal",
-		  "datatype": "http://www.w3.org/2001/XMLSchema#date",
-		  "value": "2015-01-06"
-		}
-	  },
-	  [...]
-	  {
-		"e": {
-		  "type": "uri",
-		  "value": "http://dbpedia.org/resource/Hot_Snow_(The_Avengers)"
-		},
-		"date": {
-		  "type": "typed-literal",
-		  "datatype": "http://www.w3.org/2001/XMLSchema#date",
-		  "value": "1961-01-07"
-		}
-	  },
-	  {
-		"e": {
-		  "type": "uri",
-		  "value": "http://dbpedia.org/resource/Where_Is_Everybody%3F"
-		},
-		"date": {
-		  "type": "typed-literal",
-		  "datatype": "http://www.w3.org/2001/XMLSchema#date",
-		  "value": "1959-10-02"
-		}
-	  },
-	  {
-		"e": {
-		  "type": "uri",
-		  "value": "http://dbpedia.org/resource/Huckleberry_Hound_Meets_Wee_Willie"
-		},
-		"date": {
-		  "type": "typed-literal",
-		  "datatype": "http://www.w3.org/2001/XMLSchema#date",
-		  "value": "1958-10-02"
-		}
-	  }
-	]
+    "distinct": false,
+    "ordered": true,
+    "bindings": [
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Now_is_Not_the_End"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2015-01-06"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Night_Zero_(The_Strain)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2014-07-13"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(The_Leftovers)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2014-06-29"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/The_Crocodile's_Dilemma"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2014-04-15"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Minimum_Viable_Product"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2014-04-06"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(About_a_Boy)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2014-02-22"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/The_Long_Bright_Dark"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2014-01-12"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Down_the_Rabbit_Hole_(Once_Upon_a_Time_in_Wonderland)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2013-10-10"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(Masters_of_Sex)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2013-09-29"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(Agents_of_S.H.I.E.L.D.)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2013-09-24"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/The_Bag_or_the_Bat"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2013-06-30"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(Under_the_Dome)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2013-06-24"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(Devious_Maids)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2013-06-23"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(Defiance)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2013-04-15"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Chapter_1_(House_of_Cards)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2013-02-01"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(The_Americans)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2013-01-30"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Rise_of_the_Turtles"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2012-09-29"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Meet_the_Neighbors"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2012-09-26"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/We_Just_Decided_To"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2012-06-24"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Tourist_Trapped"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2012-06-15"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(Saving_Hope)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2012-06-07"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/A_Stitch_In_Time_(Continuum)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2012-05-27"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/A_New_Day_(The_Walking_Dead)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2012-04-24"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Welcome_to_Republic_City"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2012-04-14"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/The_Year_of_the_Fin"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2012-03-30"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(Missing)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2012-03-15"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(Awake)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2012-03-01"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(Smash)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2012-02-06"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(Touch)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2012-01-25"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(Luck)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2011-12-11"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Hell_on_Wheels_(episode)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2011-11-06"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(Grimm)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2011-10-28"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(Once_Upon_a_Time)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2011-10-23"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(American_Horror_Story)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2011-10-05"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(Homeland)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2011-10-02"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(Person_of_Interest)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2011-09-22"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(Revenge)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2011-09-21"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(The_Playboy_Club)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2011-09-19"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(The_Secret_Circle)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2011-09-15"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(Ringer)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2011-09-13"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Winx_Club_(2011_film)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2011-06-27"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(Suits)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2011-06-23"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Live_and_Learn_(Falling_Skies)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2011-06-19"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(Franklin_&_Bash)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2011-06-01"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Winter_Is_Coming"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2011-04-17"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/The_Poisoned_Chalice"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2011-04-03"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(The_Killing)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2011-04-03"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(Body_of_Proof)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2011-03-29"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Rollercoaster_(Phineas_and_Ferb)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2011-01-28"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Saved_by_the_Great_White_Hope"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2011-01-12"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Human_Flesh"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2011-01-09"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Independence_Day_(Young_Justice)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2010-11-26"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Start_It_Up_(Shake_It_Up)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2010-11-07"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Breakout_(The_Avengers:_Earth's_Mightiest_Heroes)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2010-10-29"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Breakout_(The_Avengers:_Earth's_Mightiest_Heroes)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2010-10-22"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Breakout_(The_Avengers:_Earth's_Mightiest_Heroes)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2010-10-20"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Hollywood_(Law_&_Order:_LA)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2010-09-29"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(No_Ordinary_Family)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2010-09-28"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(Hawaii_Five-0)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2010-09-20"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Boardwalk_Empire_(episode)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2010-09-19"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(Nikita)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2010-09-09"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(Hot_in_Cleveland)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2010-06-16"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Day_of_the_Dumpster"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2010-01-02"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Big_Time_Audition"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2009-11-28"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Wizboy"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2009-11-06"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(V)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2009-11-03"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(White_Collar)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2009-10-23"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Air_(Stargate_Universe)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2009-10-09"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Air_(Stargate_Universe)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2009-10-02"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(The_Cleveland_Show)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2009-09-27"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/No_More_Good_Days"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2009-09-24"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(Modern_Family)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2009-09-23"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(Cougar_Town)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2009-09-23"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(The_Vampire_Diaries)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2009-09-10"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/I'm_An_Adult_Now_(The_Listener)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2009-06-03"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(Glee)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2009-05-19"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Wench_Trouble"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2009-04-09"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(Parks_and_Recreation)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2009-04-09"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(Better_Off_Ted)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2009-03-18"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/I'm_An_Adult_Now_(The_Listener)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2009-03-03"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Care_(Law_&_Order:_UK)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2009-02-23"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Series_1,_Episode_1_(Being_Human)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2009-01-25"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/The_Nigerian_Job"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2008-12-07"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/The_Rise_of_the_Blue_Beetle!"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2008-11-14"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Welcome_to_Swift_and_Shift"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2008-10-27"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Sanctuary_for_All"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2008-10-03"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/The_Suite_Life_Sets_Sail"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2008-09-26"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/The_Suite_Life_Sets_Sail"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2008-09-19"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(Fringe)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2008-09-09"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Strange_Love_(True_Blood)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2008-09-07"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Family_Moving_Day__Room_to_Move__1"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2008-09-04"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(Sons_of_Anarchy)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2008-09-03"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/We're_Not_in_Kansas_Anymore"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2008-09-02"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/The_Sacrifice_(Fear_Itself)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2008-06-05"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/First_Day_(The_Inbetweeners)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2008-05-01"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Homecoming_(Miss_Guided)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2008-03-18"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(Breaking_Bad)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2008-01-20"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pie-lette"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2007-10-02"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/No_Such_Thing_as_Vampires"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2007-09-28"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Chuck_Versus_the_Intersect"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2007-09-24"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(Gossip_Girl)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2007-09-19"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(Gossip_Girl)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2007-09-18"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Rollercoaster_(Phineas_and_Ferb)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2007-08-17"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(Californication)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2007-08-13"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Smoke_Gets_in_Your_Eyes_(Mad_Men)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2007-07-19"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Sally_(Flight_of_the_Conchords)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2007-06-17"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(30_Rock)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2006-10-10"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Will_You_Tolerate_This%3F"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2006-10-07"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(Friday_Night_Lights)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2006-10-03"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Dexter_(episode)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2006-10-01"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(Ugly_Betty)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2006-09-28"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/The_Wrong_Side_of_the_Tracks"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2006-09-25"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(Jericho)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2006-09-20"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Todd_Strikes_Out_/_The_Jerky_Girls"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2006-07-28"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(Eureka)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2006-07-18"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(Psych_episode)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2006-07-07"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/New_City,_New_Drama"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2006-05-31"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(The_New_Adventures_of_Old_Christine)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2006-03-13"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/First_Responders_(The_Unit)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2006-03-07"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Family_Moving_Day__Room_to_Move__1"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2006-02-13"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Secret_Truths"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2005-11-04"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(My_Name_Is_Earl)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2005-09-20"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(How_I_Met_Your_Mother)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2005-09-19"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(Supernatural)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2005-09-13"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Keep_On_Running_(The_Green_Green_Grass)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2005-09-09"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(Prison_Break)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2005-08-29"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/A_Hard_Day's_Night_(Grey's_Anatomy)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2005-03-27"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(The_Office)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2005-03-24"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(American_Dad!)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2005-02-06"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/33_(Battlestar_Galactica)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2005-01-14"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(House)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2004-11-16"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/33_(Battlestar_Galactica)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2004-10-18"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(Lost)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2004-09-29"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(Lost)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2004-09-22"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Rising_(Stargate_Atlantis)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2004-07-16"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(The_4400)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2004-07-11"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/The_Con_is_On"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2004-02-24"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Out_in_the_Open_(renegadepress.com)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2004-01-18"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(Arrested_Development)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2003-11-02"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Yankee_White_(NCIS)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2003-09-23"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/The_Ferguson_Syndrome"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2003-01-27"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Serenity_(Firefly_episode)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2002-12-20"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Evergreen_(The_Twilight_Zone)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2002-09-18"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Mr._Monk_and_the_Candidate"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2002-07-12"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/The_Target_(The_Wire)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2002-06-02"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Prototype_(George_Lopez)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2002-03-27"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(The_Shield)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2002-03-12"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Family_Moving_Day__Room_to_Move__1"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2001-12-25"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/12:00_a.m._–_1:00_a.m."
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2001-11-06"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/One_(Law_&_Order:_Criminal_Intent)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2001-09-30"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Rabbot"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2001-09-16"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/The_Nightmare_Begins"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2001-03-30"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Rabbot"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2000-12-30"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Destiny_(Queen_of_Swords)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2000-10-07"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(CSI:_Crime_Scene_Investigation)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2000-10-06"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(Gilmore_Girls)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2000-10-05"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Muttamorphosis"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2000-09-09"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/List_of_KaBlam!_episodes"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2000-01-22"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/List_of_KaBlam!_episodes"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2000-01-15"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(Malcolm_in_the_Middle)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2000-01-09"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/List_of_KaBlam!_episodes"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2000-01-08"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/List_of_KaBlam!_episodes"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "2000-01-01"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/List_of_KaBlam!_episodes"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1999-12-25"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/List_of_KaBlam!_episodes"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1999-12-18"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/List_of_KaBlam!_episodes"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1999-12-11"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/List_of_KaBlam!_episodes"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1999-12-04"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/List_of_KaBlam!_episodes"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1999-11-27"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/List_of_KaBlam!_episodes"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1999-11-20"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/City_Of"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1999-10-05"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(The_West_Wing)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1999-09-22"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Payback_(Law_&_Order:_Special_Victims_Unit)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1999-09-20"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Day_of_the_Dumpster"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1999-05-22"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Help_Wanted_(SpongeBob_SquarePants)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1999-05-01"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Premiere_(Farscape)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1999-03-19"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Death_Has_a_Shadow"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1999-01-31"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/The_Ed-touchables_/_Nagged_to_Ed"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1999-01-04"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/List_of_KaBlam!_episodes"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1998-11-27"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/List_of_KaBlam!_episodes"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1998-11-20"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/List_of_KaBlam!_episodes"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1998-11-13"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/List_of_KaBlam!_episodes"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1998-11-06"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/List_of_KaBlam!_episodes"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1998-10-30"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/List_of_KaBlam!_episodes"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1998-10-24"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/List_of_KaBlam!_episodes"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1998-10-16"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/List_of_KaBlam!_episodes"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1998-10-09"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Something_Wicca_This_Way_Comes"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1998-10-07"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/List_of_KaBlam!_episodes"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1998-10-02"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/List_of_KaBlam!_episodes"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1998-09-25"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(Sports_Night)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1998-09-22"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(Will_&_Grace)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1998-09-21"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/List_of_KaBlam!_episodes"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1998-09-18"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/List_of_KaBlam!_episodes"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1998-09-11"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pokémon,_I_Choose_You!"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1998-09-08"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/That_'70s_Pilot"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1998-08-23"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/The_Pilot_(Two_Guys_and_a_Girl)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1998-03-10"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/List_of_KaBlam!_episodes"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1997-12-19"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/List_of_KaBlam!_episodes"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1997-12-12"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/List_of_KaBlam!_episodes"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1997-12-05"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/List_of_KaBlam!_episodes"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1997-11-28"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/List_of_KaBlam!_episodes"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1997-11-21"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/List_of_KaBlam!_episodes"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1997-11-14"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/List_of_KaBlam!_episodes"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1997-11-07"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/List_of_KaBlam!_episodes"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1997-10-31"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/List_of_KaBlam!_episodes"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1997-10-24"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/List_of_KaBlam!_episodes"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1997-10-17"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/List_of_KaBlam!_episodes"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1997-10-10"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/List_of_KaBlam!_episodes"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1997-10-03"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/List_of_KaBlam!_episodes"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1997-09-26"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Cartman_Gets_an_Anal_Probe"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1997-08-13"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Children_of_the_Gods"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1997-07-27"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/The_Routine"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1997-07-12"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pokémon,_I_Choose_You!"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1997-04-01"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Welcome_to_the_Hellmouth"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1997-03-10"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/List_of_KaBlam!_episodes"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1997-01-31"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(King_of_the_Hill)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1997-01-12"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/List_of_KaBlam!_episodes"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1996-12-30"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/List_of_KaBlam!_episodes"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1996-12-23"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/List_of_KaBlam!_episodes"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1996-12-16"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/List_of_KaBlam!_episodes"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1996-12-02"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/List_of_KaBlam!_episodes"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1996-11-25"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/List_of_KaBlam!_episodes"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1996-11-18"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/List_of_KaBlam!_episodes"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1996-11-11"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/List_of_KaBlam!_episodes"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1996-11-04"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/List_of_KaBlam!_episodes"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1996-10-28"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(Millennium)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1996-10-25"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/List_of_KaBlam!_episodes"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1996-10-21"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/List_of_KaBlam!_episodes"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1996-10-14"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/List_of_KaBlam!_episodes"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1996-10-07"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(Sabrina,_the_Teenage_Witch)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1996-09-27"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Prototype_(Spin_City)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1996-09-17"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Brains_and_Eggs"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1996-01-09"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(The_Drew_Carey_Show)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1995-09-13"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Out_of_the_Hive"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1995-04-01"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/The_Sandkings"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1995-03-26"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Caretaker_(Star_Trek:_Voyager)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1995-01-16"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/The_Pilot_(Friends)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1994-09-22"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/The_Magic_School_Bus_Lost_in_the_Solar_System__The_Magic_School_Bus_Gets_Lost_In_Space__1"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1994-09-10"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(My_So-Called_Life)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1994-08-25"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(The_Critic)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1994-01-26"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/The_Nanny_(Pilot)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1993-11-03"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(Boy_Meets_World)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1993-09-24"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/The_Good_Son_(Frasier)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1993-09-16"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Day_of_the_Dumpster"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1993-08-28"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Night_of_the_Sentinels"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1992-11-07"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Night_of_the_Sentinels"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1992-10-31"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/On_Leather_Wings"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1992-09-06"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Tommy's_First_Birthday"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1991-08-11"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Prescription_for_Death"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1990-09-13"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(Twin_Peaks)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1990-04-08"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/The_Mama_Who_Came_to_Dinner"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1989-09-22"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/The_Seinfeld_Chronicles"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1989-07-05"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/A_Chip_in_the_Sugar"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1988-04-19"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Encounter_at_Farpoint"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1987-09-28"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Brother's_Keeper_(Miami_Vice)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1984-09-16"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Mexican_Slayride"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1983-01-23"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Give_Me_a_Ring_Sometime"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1982-10-14"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/License_to_Steele"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1982-10-01"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Give_Me_a_Ring_Sometime"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1982-09-30"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/A_Substantial_Gift_(The_Broken_Promise)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1982-03-04"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Like_Father,_Like_Daughter_(Taxi)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1978-09-12"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Breakaway_(Space:_1999)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1975-09-04"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/New_Faces,_Old_Hands"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1974-09-05"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Beyond_the_Farthest_Star_(Star_Trek:_The_Animated_Series)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1973-09-08"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Pilot_(M*A*S*H)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1972-09-17"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/The_Stalls_of_Barchester"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1971-12-24"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/My_Late_Lamented_Friend_and_Partner"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1969-09-21"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Arrival_(The_Prisoner)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1967-09-29"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/The_LSD_Story"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1967-01-12"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/The_Man_Trap"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1966-09-08"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Trapped_in_the_Sky"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1965-09-30"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/The_Lady_in_the_Bottle"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1965-09-18"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Mr._Big_(Get_Smart)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1965-09-18"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/The_Vulcan_Affair"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1964-09-22"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/The_Galaxy_Being"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1963-09-16"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Hot_Snow_(The_Avengers)"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1961-01-07"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Where_Is_Everybody%3F"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1959-10-02"
+        }
+      },
+      {
+        "e": {
+          "type": "uri",
+          "value": "http://dbpedia.org/resource/Huckleberry_Hound_Meets_Wee_Willie"
+        },
+        "date": {
+          "type": "typed-literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "value": "1958-10-02"
+        }
+      }
+    ]
   }
 }
